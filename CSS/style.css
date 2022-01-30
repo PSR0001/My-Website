@@ -130,7 +130,7 @@ blockquote p {
 }
 
 
-
+ 
 
 @keyframes animate {
 
@@ -141,6 +141,4 @@ blockquote p {
 100%{
   transform: rotate(360deg);
 }
-
-
-}
+ }
