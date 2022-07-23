@@ -5,7 +5,7 @@ document.addEventListener('mousemove', e => {
 })
 
 
-import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
+// import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
 import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/loaders/GLTFLoader.js';
 
 import * as THREE from 'https://cdn.skypack.dev/three@0.136.0'
